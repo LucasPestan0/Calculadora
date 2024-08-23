@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(105, 92, 75);
+}
+
+
+
+.tipo {
+    padding: 50px;
+    max-width:  500px;
+    margin: 50px auto;
+    background-color: rgb(248, 244, 244);
+    border-radius: 25px;
+    align-items:first baseline;
+    
+
+}
+
+.display {
+    width:330px;
+    height: 70px;
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border-color: aliceblue;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    
+    
+}
+
+.btn {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: rgb(184, 178, 178);
+    color: rgb(15, 13, 13);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    align-items: center;
+    border-color: rgb(28, 27, 27);
+}
+
+.btn:hover{
+    background:rgb(70, 68, 68); 
+}
+
+
+.calculo {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+
